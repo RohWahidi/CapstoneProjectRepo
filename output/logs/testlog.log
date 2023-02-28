@@ -1,0 +1,328 @@
+2023-02-19 10:39:55,409 - logger_File -INFO - User is on retial website
+2023-02-19 10:39:55,585 - logger_File -INFO - User clicks on signIn button
+2023-02-19 10:39:55,633 - logger_File -INFO - User is on signIn page
+2023-02-19 10:40:18,384 - logger_File -INFO - User is on retial website
+2023-02-19 10:40:18,554 - logger_File -INFO - User clicks on signIn button
+2023-02-19 10:40:18,603 - logger_File -INFO - User is on signIn page
+2023-02-19 10:42:05,883 - logger_File -INFO - User is on retial website
+2023-02-19 10:42:06,084 - logger_File -INFO - User clicks on signIn button
+2023-02-19 10:42:06,132 - logger_File -INFO - User is on signIn page
+2023-02-19 21:41:23,511 - logger_File -INFO - User is on retial website
+2023-02-19 21:41:23,727 - logger_File -INFO - User clicks on signIn button
+2023-02-19 21:41:23,773 - logger_File -INFO - User is on signIn page
+2023-02-19 22:11:59,417 - logger_File -INFO - User is on retial website
+2023-02-19 22:11:59,576 - logger_File -INFO - User clicks on signIn button
+2023-02-19 22:11:59,616 - logger_File -INFO - User is on signIn page
+2023-02-25 20:45:29,818 - logger_File -INFO - User is on retial website
+2023-02-25 20:49:50,379 - logger_File -INFO - User is on retial website
+2023-02-25 20:52:08,213 - logger_File -INFO - User is on retial website
+2023-02-25 20:52:08,388 - logger_File -INFO - User clicks on signIn button
+2023-02-25 20:52:08,737 - logger_File -INFO - User enter email and pass
+2023-02-25 20:52:08,847 - logger_File -INFO - User click on login Btn
+2023-02-25 20:53:20,377 - logger_File -INFO - User is on retial website
+2023-02-25 20:53:20,533 - logger_File -INFO - User clicks on signIn button
+2023-02-25 20:53:20,946 - logger_File -INFO - User enter email and pass
+2023-02-25 20:53:21,051 - logger_File -INFO - User click on login Btn
+2023-02-25 20:53:21,468 - logger_File -INFO - User should be logged in
+2023-02-25 21:31:10,984 - logger_File -INFO - User is on retial website
+2023-02-25 21:31:11,117 - logger_File -INFO - User clicks on signIn button
+2023-02-25 21:31:11,253 - logger_File -INFO - User Click on Create New Account button
+2023-02-25 21:31:11,926 - logger_File -INFO - User fill the signUp information
+2023-02-25 21:31:12,026 - logger_File -INFO - User click on SignUp button
+2023-02-25 21:32:55,541 - logger_File -INFO - User is on retial website
+2023-02-25 21:32:55,671 - logger_File -INFO - User clicks on signIn button
+2023-02-25 21:32:55,813 - logger_File -INFO - User Click on Create New Account button
+2023-02-25 21:32:56,484 - logger_File -INFO - User fill the signUp information
+2023-02-25 21:32:56,580 - logger_File -INFO - User click on SignUp button
+2023-02-25 21:32:56,941 - logger_File -INFO - User is logged into account page
+2023-02-25 21:33:28,335 - logger_File -INFO - User is on retial website
+2023-02-25 21:33:28,715 - logger_File -INFO - User clicks on signIn button
+2023-02-25 21:33:28,850 - logger_File -INFO - User Click on Create New Account button
+2023-02-25 21:33:29,537 - logger_File -INFO - User fill the signUp information
+2023-02-25 21:33:29,638 - logger_File -INFO - User click on SignUp button
+2023-02-25 21:34:19,265 - logger_File -INFO - User is on retial website
+2023-02-25 21:34:19,411 - logger_File -INFO - User clicks on signIn button
+2023-02-25 21:34:19,553 - logger_File -INFO - User Click on Create New Account button
+2023-02-25 21:34:20,224 - logger_File -INFO - User fill the signUp information
+2023-02-25 21:34:20,321 - logger_File -INFO - User click on SignUp button
+2023-02-25 21:34:20,692 - logger_File -INFO - User is logged into account page
+2023-02-25 22:08:04,073 - logger_File -INFO - User is on retial website
+2023-02-25 22:08:04,220 - logger_File -INFO - User clicks on signIn button
+2023-02-25 22:08:04,609 - logger_File -INFO - User enter email and pass
+2023-02-25 22:08:04,714 - logger_File -INFO - User click on login Btn
+2023-02-25 22:08:05,106 - logger_File -INFO - User should be logged in
+2023-02-25 22:08:05,300 - logger_File -INFO - User click on Account option
+2023-02-25 22:08:05,631 - logger_File -INFO - User update name and phone
+2023-02-25 22:08:05,748 - logger_File -INFO - User click on update button
+2023-02-25 22:14:38,515 - logger_File -INFO - User is on retial website
+2023-02-25 22:14:38,676 - logger_File -INFO - User clicks on signIn button
+2023-02-25 22:14:39,046 - logger_File -INFO - User enter email and pass
+2023-02-25 22:14:39,158 - logger_File -INFO - User click on login Btn
+2023-02-25 22:14:39,427 - logger_File -INFO - User should be logged in
+2023-02-25 22:14:39,593 - logger_File -INFO - User click on Account option
+2023-02-25 22:14:39,945 - logger_File -INFO - User update name and phone
+2023-02-25 22:14:40,054 - logger_File -INFO - User click on update button
+2023-02-25 22:15:56,364 - logger_File -INFO - User is on retial website
+2023-02-25 22:15:56,562 - logger_File -INFO - User clicks on signIn button
+2023-02-25 22:15:56,926 - logger_File -INFO - User enter email and pass
+2023-02-25 22:15:57,027 - logger_File -INFO - User click on login Btn
+2023-02-25 22:15:57,322 - logger_File -INFO - User should be logged in
+2023-02-25 22:15:57,518 - logger_File -INFO - User click on Account option
+2023-02-25 22:15:57,869 - logger_File -INFO - User update name and phone
+2023-02-25 22:15:57,980 - logger_File -INFO - User click on update button
+2023-02-25 22:41:12,004 - logger_File -INFO - User is on retial website
+2023-02-25 22:41:12,168 - logger_File -INFO - User clicks on signIn button
+2023-02-25 22:41:12,527 - logger_File -INFO - User enter email and pass
+2023-02-25 22:41:12,634 - logger_File -INFO - User click on login Btn
+2023-02-25 22:41:12,927 - logger_File -INFO - User should be logged in
+2023-02-25 22:41:13,109 - logger_File -INFO - User click on Account option
+2023-02-25 22:41:13,588 - logger_File -INFO - User update name and phone
+2023-02-25 22:41:13,690 - logger_File -INFO - User click on update button
+2023-02-25 22:41:57,012 - logger_File -INFO - User is on retial website
+2023-02-25 22:41:57,267 - logger_File -INFO - User clicks on signIn button
+2023-02-25 22:41:57,634 - logger_File -INFO - User enter email and pass
+2023-02-25 22:41:57,747 - logger_File -INFO - User click on login Btn
+2023-02-25 22:41:58,053 - logger_File -INFO - User should be logged in
+2023-02-25 22:41:58,251 - logger_File -INFO - User click on Account option
+2023-02-25 22:41:58,759 - logger_File -INFO - User update name and phone
+2023-02-25 22:41:58,867 - logger_File -INFO - User click on update button
+2023-02-25 22:47:11,019 - logger_File -INFO - User is on retial website
+2023-02-25 22:47:11,385 - logger_File -INFO - User clicks on signIn button
+2023-02-25 22:47:11,754 - logger_File -INFO - User enter email and pass
+2023-02-25 22:47:11,865 - logger_File -INFO - User click on login Btn
+2023-02-25 22:47:12,115 - logger_File -INFO - User should be logged in
+2023-02-25 22:47:12,317 - logger_File -INFO - User click on Account option
+2023-02-25 22:47:12,816 - logger_File -INFO - User update name and phone
+2023-02-25 22:59:01,568 - logger_File -INFO - User is on retial website
+2023-02-25 22:59:02,011 - logger_File -INFO - User clicks on signIn button
+2023-02-25 22:59:02,375 - logger_File -INFO - User enter email and pass
+2023-02-25 22:59:02,486 - logger_File -INFO - User click on login Btn
+2023-02-25 22:59:02,791 - logger_File -INFO - User should be logged in
+2023-02-25 22:59:02,987 - logger_File -INFO - User click on Account option
+2023-02-25 22:59:03,485 - logger_File -INFO - User update name and phone
+2023-02-25 23:01:26,600 - logger_File -INFO - User is on retial website
+2023-02-25 23:01:26,736 - logger_File -INFO - User clicks on signIn button
+2023-02-25 23:01:27,121 - logger_File -INFO - User enter email and pass
+2023-02-25 23:01:27,248 - logger_File -INFO - User click on login Btn
+2023-02-25 23:01:27,509 - logger_File -INFO - User should be logged in
+2023-02-25 23:01:27,763 - logger_File -INFO - User click on Account option
+2023-02-25 23:01:28,243 - logger_File -INFO - User update name and phone
+2023-02-25 23:05:05,681 - logger_File -INFO - User is on retial website
+2023-02-25 23:05:05,809 - logger_File -INFO - User clicks on signIn button
+2023-02-25 23:05:06,195 - logger_File -INFO - User enter email and pass
+2023-02-25 23:05:06,298 - logger_File -INFO - User click on login Btn
+2023-02-25 23:05:06,577 - logger_File -INFO - User should be logged in
+2023-02-25 23:05:07,106 - logger_File -INFO - User click on Account option
+2023-02-25 23:05:07,593 - logger_File -INFO - User update name and phone
+2023-02-25 23:10:24,971 - logger_File -INFO - User is on retial website
+2023-02-25 23:10:25,269 - logger_File -INFO - User clicks on signIn button
+2023-02-25 23:10:25,633 - logger_File -INFO - User enter email and pass
+2023-02-25 23:10:25,749 - logger_File -INFO - User click on login Btn
+2023-02-25 23:10:26,038 - logger_File -INFO - User should be logged in
+2023-02-25 23:10:26,218 - logger_File -INFO - User click on Account option
+2023-02-25 23:10:26,699 - logger_File -INFO - User update name and phone
+2023-02-25 23:19:42,297 - logger_File -INFO - User is on retial website
+2023-02-25 23:19:42,530 - logger_File -INFO - User clicks on signIn button
+2023-02-25 23:19:42,933 - logger_File -INFO - User enter email and pass
+2023-02-25 23:19:43,047 - logger_File -INFO - User click on login Btn
+2023-02-25 23:19:43,329 - logger_File -INFO - User should be logged in
+2023-02-25 23:19:43,516 - logger_File -INFO - User click on Account option
+2023-02-25 23:19:44,010 - logger_File -INFO - User update name and phone
+2023-02-25 23:19:44,111 - logger_File -INFO - User click on update button
+2023-02-25 23:19:44,297 - logger_File -INFO - Alert should appear
+2023-02-25 23:50:06,800 - logger_File -INFO - User is on retial website
+2023-02-25 23:50:07,165 - logger_File -INFO - User clicks on signIn button
+2023-02-25 23:50:07,543 - logger_File -INFO - User enter email and pass
+2023-02-25 23:50:07,651 - logger_File -INFO - User click on login Btn
+2023-02-25 23:50:07,909 - logger_File -INFO - User should be logged in
+2023-02-25 23:58:13,455 - logger_File -INFO - User is on retial website
+2023-02-25 23:58:13,855 - logger_File -INFO - User clicks on signIn button
+2023-02-25 23:58:14,221 - logger_File -INFO - User enter email and pass
+2023-02-25 23:58:14,324 - logger_File -INFO - User click on login Btn
+2023-02-25 23:58:14,579 - logger_File -INFO - User should be logged in
+2023-02-25 23:59:03,144 - logger_File -INFO - User is on retial website
+2023-02-25 23:59:03,430 - logger_File -INFO - User clicks on signIn button
+2023-02-25 23:59:03,786 - logger_File -INFO - User enter email and pass
+2023-02-25 23:59:03,897 - logger_File -INFO - User click on login Btn
+2023-02-25 23:59:04,174 - logger_File -INFO - User should be logged in
+2023-02-26 00:00:14,166 - logger_File -INFO - User is on retial website
+2023-02-26 00:00:14,524 - logger_File -INFO - User clicks on signIn button
+2023-02-26 00:00:14,896 - logger_File -INFO - User enter email and pass
+2023-02-26 00:00:15,015 - logger_File -INFO - User click on login Btn
+2023-02-26 00:00:15,307 - logger_File -INFO - User should be logged in
+2023-02-26 00:00:15,503 - logger_File -INFO - User click on Account option
+2023-02-26 00:00:15,991 - logger_File -INFO - User update name and phone
+2023-02-26 00:00:16,092 - logger_File -INFO - User click on update button
+2023-02-26 00:00:16,190 - logger_File -INFO - Alert should appear
+2023-02-26 00:19:16,353 - logger_File -INFO - User is on retial website
+2023-02-26 00:19:16,611 - logger_File -INFO - User clicks on signIn button
+2023-02-26 00:19:16,994 - logger_File -INFO - User enter email and pass
+2023-02-26 00:19:17,099 - logger_File -INFO - User click on login Btn
+2023-02-26 00:19:17,342 - logger_File -INFO - User should be logged in
+2023-02-26 00:19:17,537 - logger_File -INFO - User click on Account option
+2023-02-26 00:19:18,118 - logger_File -INFO - User enters previous password and the new password
+2023-02-26 00:19:18,235 - logger_File -INFO - User click on change password button
+2023-02-26 00:21:21,061 - logger_File -INFO - User is on retial website
+2023-02-26 00:21:21,404 - logger_File -INFO - User clicks on signIn button
+2023-02-26 00:21:21,775 - logger_File -INFO - User enter email and pass
+2023-02-26 00:21:21,887 - logger_File -INFO - User click on login Btn
+2023-02-26 00:21:22,172 - logger_File -INFO - User should be logged in
+2023-02-26 00:21:22,358 - logger_File -INFO - User click on Account option
+2023-02-26 00:21:22,952 - logger_File -INFO - User enters previous password and the new password
+2023-02-26 00:21:23,048 - logger_File -INFO - User click on change password button
+2023-02-26 00:24:57,654 - logger_File -INFO - User is on retial website
+2023-02-26 00:24:57,883 - logger_File -INFO - User clicks on signIn button
+2023-02-26 00:24:58,241 - logger_File -INFO - User enter email and pass
+2023-02-26 00:24:58,350 - logger_File -INFO - User click on login Btn
+2023-02-26 00:24:58,654 - logger_File -INFO - User should be logged in
+2023-02-26 00:24:58,842 - logger_File -INFO - User click on Account option
+2023-02-26 00:24:59,438 - logger_File -INFO - User enters previous password and the new password
+2023-02-26 00:24:59,528 - logger_File -INFO - User click on change password button
+2023-02-26 00:29:32,156 - logger_File -INFO - User is on retial website
+2023-02-26 00:29:32,294 - logger_File -INFO - User clicks on signIn button
+2023-02-26 00:29:32,708 - logger_File -INFO - User enter email and pass
+2023-02-26 00:29:32,837 - logger_File -INFO - User click on login Btn
+2023-02-26 00:29:33,331 - logger_File -INFO - User should be logged in
+2023-02-26 00:29:33,496 - logger_File -INFO - User click on Account option
+2023-02-26 00:29:34,155 - logger_File -INFO - User enters previous password and the new password
+2023-02-26 00:29:34,246 - logger_File -INFO - User click on change password button
+2023-02-26 00:38:11,695 - logger_File -INFO - User is on retial website
+2023-02-26 00:38:11,913 - logger_File -INFO - User clicks on signIn button
+2023-02-26 00:38:12,282 - logger_File -INFO - User enter email and pass
+2023-02-26 00:38:12,383 - logger_File -INFO - User click on login Btn
+2023-02-26 00:38:12,667 - logger_File -INFO - User should be logged in
+2023-02-26 00:38:12,859 - logger_File -INFO - User click on Account option
+2023-02-26 00:38:13,434 - logger_File -INFO - User enters previous password and the new password
+2023-02-26 00:38:13,532 - logger_File -INFO - User click on change password button
+2023-02-26 00:38:13,909 - logger_File -INFO - A message should be displayed
+2023-02-26 01:15:37,639 - logger_File -INFO - User is on retial website
+2023-02-26 01:15:38,043 - logger_File -INFO - User clicks on signIn button
+2023-02-26 01:15:38,417 - logger_File -INFO - User enter email and pass
+2023-02-26 01:15:38,517 - logger_File -INFO - User click on login Btn
+2023-02-26 01:16:31,494 - logger_File -INFO - User is on retial website
+2023-02-26 01:16:31,721 - logger_File -INFO - User clicks on signIn button
+2023-02-26 01:16:32,098 - logger_File -INFO - User enter email and pass
+2023-02-26 01:16:32,204 - logger_File -INFO - User click on login Btn
+2023-02-26 01:16:32,484 - logger_File -INFO - User should be logged in
+2023-02-26 01:16:32,661 - logger_File -INFO - User click on Account option
+2023-02-26 01:16:32,812 - logger_File -INFO - User click on add a payment method link
+2023-02-26 01:21:31,158 - logger_File -INFO - User is on retial website
+2023-02-26 01:21:31,308 - logger_File -INFO - User clicks on signIn button
+2023-02-26 01:21:31,683 - logger_File -INFO - User enter email and pass
+2023-02-26 01:21:31,779 - logger_File -INFO - User click on login Btn
+2023-02-26 01:21:32,030 - logger_File -INFO - User should be logged in
+2023-02-26 01:21:32,263 - logger_File -INFO - User click on Account option
+2023-02-26 01:21:32,401 - logger_File -INFO - User click on add a payment method link
+2023-02-26 01:21:33,075 - logger_File -INFO - User fill Debit/credit information
+2023-02-26 01:21:33,177 - logger_File -INFO - User click on add your card button
+2023-02-26 01:21:33,344 - logger_File -INFO - Message should be displayed
+2023-02-26 01:59:23,773 - logger_File -INFO - User is on retial website
+2023-02-26 01:59:23,914 - logger_File -INFO - User clicks on signIn button
+2023-02-26 01:59:24,300 - logger_File -INFO - User enter email and pass
+2023-02-26 01:59:24,418 - logger_File -INFO - User click on login Btn
+2023-02-26 01:59:24,732 - logger_File -INFO - User should be logged in
+2023-02-26 01:59:24,935 - logger_File -INFO - User click on Account option
+2023-02-26 02:02:54,079 - logger_File -INFO - User is on retial website
+2023-02-26 02:02:54,437 - logger_File -INFO - User clicks on signIn button
+2023-02-26 02:02:54,817 - logger_File -INFO - User enter email and pass
+2023-02-26 02:02:54,925 - logger_File -INFO - User click on login Btn
+2023-02-26 02:02:55,234 - logger_File -INFO - User should be logged in
+2023-02-26 02:02:55,418 - logger_File -INFO - User click on Account option
+2023-02-26 02:05:05,311 - logger_File -INFO - User is on retial website
+2023-02-26 02:05:05,733 - logger_File -INFO - User clicks on signIn button
+2023-02-26 02:05:06,125 - logger_File -INFO - User enter email and pass
+2023-02-26 02:05:06,239 - logger_File -INFO - User click on login Btn
+2023-02-26 02:05:06,537 - logger_File -INFO - User should be logged in
+2023-02-26 02:05:06,744 - logger_File -INFO - User click on Account option
+2023-02-26 02:05:07,039 - logger_File -INFO - User click on edit card option
+2023-02-26 02:05:39,253 - logger_File -INFO - User is on retial website
+2023-02-26 02:05:39,566 - logger_File -INFO - User clicks on signIn button
+2023-02-26 02:05:39,954 - logger_File -INFO - User enter email and pass
+2023-02-26 02:05:40,052 - logger_File -INFO - User click on login Btn
+2023-02-26 02:05:40,361 - logger_File -INFO - User should be logged in
+2023-02-26 02:05:40,553 - logger_File -INFO - User click on Account option
+2023-02-26 02:05:40,848 - logger_File -INFO - User click on edit card option
+2023-02-26 02:10:22,220 - logger_File -INFO - User is on retial website
+2023-02-26 02:10:22,573 - logger_File -INFO - User clicks on signIn button
+2023-02-26 02:10:22,959 - logger_File -INFO - User enter email and pass
+2023-02-26 02:10:23,064 - logger_File -INFO - User click on login Btn
+2023-02-26 02:10:23,345 - logger_File -INFO - User should be logged in
+2023-02-26 02:10:23,552 - logger_File -INFO - User click on Account option
+2023-02-26 02:10:23,838 - logger_File -INFO - User click on edit card option
+2023-02-26 02:10:24,639 - logger_File -INFO - User update card informaiton
+2023-02-26 02:10:24,737 - logger_File -INFO - User click on update your card button
+2023-02-26 02:10:24,899 - logger_File -INFO - Message should be displayed
+2023-02-26 02:11:07,704 - logger_File -INFO - User is on retial website
+2023-02-26 02:11:07,947 - logger_File -INFO - User clicks on signIn button
+2023-02-26 02:11:08,306 - logger_File -INFO - User enter email and pass
+2023-02-26 02:11:08,409 - logger_File -INFO - User click on login Btn
+2023-02-26 02:11:08,725 - logger_File -INFO - User should be logged in
+2023-02-26 02:11:08,917 - logger_File -INFO - User click on Account option
+2023-02-26 02:11:09,233 - logger_File -INFO - User click on edit card option
+2023-02-26 02:11:09,963 - logger_File -INFO - User update card informaiton
+2023-02-26 02:11:10,048 - logger_File -INFO - User click on update your card button
+2023-02-26 02:11:10,204 - logger_File -INFO - Message should be displayed
+2023-02-26 11:23:15,972 - logger_File -INFO - User is on retial website
+2023-02-26 11:23:16,323 - logger_File -INFO - User clicks on signIn button
+2023-02-26 11:23:16,707 - logger_File -INFO - User enter email and pass
+2023-02-26 11:23:16,808 - logger_File -INFO - User click on login Btn
+2023-02-26 11:23:17,101 - logger_File -INFO - User should be logged in
+2023-02-26 11:23:17,297 - logger_File -INFO - User click on Account option
+2023-02-26 11:23:17,605 - logger_File -INFO - User click on remove option
+2023-02-26 11:23:17,644 - logger_File -INFO - Payment details removed
+2023-02-26 12:07:02,508 - logger_File -INFO - User is on retial website
+2023-02-26 12:07:02,767 - logger_File -INFO - User clicks on signIn button
+2023-02-26 12:07:03,229 - logger_File -INFO - User enter email and pass
+2023-02-26 12:07:03,330 - logger_File -INFO - User click on login Btn
+2023-02-26 12:07:03,782 - logger_File -INFO - User should be logged in
+2023-02-26 12:07:03,995 - logger_File -INFO - User click on Account option
+2023-02-26 12:07:04,175 - logger_File -INFO - User click on add address
+2023-02-26 12:07:05,274 - logger_File -INFO - User fill new address form
+2023-02-26 12:07:05,365 - logger_File -INFO - User click on add address button
+2023-02-26 12:07:58,215 - logger_File -INFO - User is on retial website
+2023-02-26 12:07:58,611 - logger_File -INFO - User clicks on signIn button
+2023-02-26 12:07:58,989 - logger_File -INFO - User enter email and pass
+2023-02-26 12:07:59,100 - logger_File -INFO - User click on login Btn
+2023-02-26 12:07:59,391 - logger_File -INFO - User should be logged in
+2023-02-26 12:07:59,566 - logger_File -INFO - User click on Account option
+2023-02-26 12:07:59,763 - logger_File -INFO - User click on add address
+2023-02-26 12:08:00,861 - logger_File -INFO - User fill new address form
+2023-02-26 12:08:00,987 - logger_File -INFO - User click on add address button
+2023-02-26 12:08:01,110 - logger_File -INFO - User added address successfully
+2023-02-26 12:50:55,321 - logger_File -INFO - User is on retial website
+2023-02-26 12:50:55,653 - logger_File -INFO - User clicks on signIn button
+2023-02-26 12:50:56,028 - logger_File -INFO - User enter email and pass
+2023-02-26 12:50:56,130 - logger_File -INFO - User click on login Btn
+2023-02-26 12:50:56,375 - logger_File -INFO - User should be logged in
+2023-02-26 12:50:56,578 - logger_File -INFO - User click on Account option
+2023-02-26 12:50:56,770 - logger_File -INFO - User click on edit Address option
+2023-02-26 12:50:58,243 - logger_File -INFO - User fill new address information
+2023-02-26 12:50:58,382 - logger_File -INFO - User click on update address
+2023-02-26 12:57:35,954 - logger_File -INFO - User is on retial website
+2023-02-26 12:57:36,220 - logger_File -INFO - User clicks on signIn button
+2023-02-26 12:57:36,596 - logger_File -INFO - User enter email and pass
+2023-02-26 12:57:36,693 - logger_File -INFO - User click on login Btn
+2023-02-26 12:57:36,970 - logger_File -INFO - User should be logged in
+2023-02-26 12:57:37,165 - logger_File -INFO - User click on Account option
+2023-02-26 12:57:37,364 - logger_File -INFO - User click on edit Address option
+2023-02-26 12:57:38,884 - logger_File -INFO - User fill new address information
+2023-02-26 12:57:39,015 - logger_File -INFO - User click on update address
+2023-02-26 12:57:39,119 - logger_File -INFO - Update success message appears
+2023-02-27 21:16:35,181 - logger_File -INFO - User is on retial website
+2023-02-27 21:16:35,533 - logger_File -INFO - User clicks on signIn button
+2023-02-27 21:16:36,078 - logger_File -INFO - User enter email and pass
+2023-02-27 21:16:36,252 - logger_File -INFO - User click on login Btn
+2023-02-27 21:16:36,750 - logger_File -INFO - User should be logged in
+2023-02-27 21:16:37,339 - logger_File -INFO - User click on Account option
+2023-02-27 21:16:37,513 - logger_File -INFO - User click on remove option of address section
+2023-02-27 21:16:37,574 - logger_File -INFO - Address details removed
+2023-02-27 21:19:03,299 - logger_File -INFO - User is on retial website
+2023-02-27 21:19:03,749 - logger_File -INFO - User clicks on signIn button
+2023-02-27 21:19:04,247 - logger_File -INFO - User enter email and pass
+2023-02-27 21:19:04,387 - logger_File -INFO - User click on login Btn
+2023-02-27 21:19:04,669 - logger_File -INFO - User should be logged in
+2023-02-27 21:19:04,915 - logger_File -INFO - User click on Account option
+2023-02-27 21:19:05,081 - logger_File -INFO - User click on remove option of address section
+2023-02-27 21:19:05,123 - logger_File -INFO - Address details removed
+2023-02-27 22:02:21,261 - logger_File -INFO - User is on retial website
+2023-02-27 22:02:21,474 - logger_File -INFO - User click on All section

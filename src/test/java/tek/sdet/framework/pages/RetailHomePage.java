@@ -23,6 +23,26 @@ public class RetailHomePage extends BaseSetup{
 	@FindBy(xpath = "//span[contains(text(), 'Smart Home')]") public WebElement smartHomeDepartment; 
 	@FindBy(xpath = "//span[contains(text(), 'Sports')]") public WebElement sportsDepartment; 
 	@FindBy(xpath = "//span[contains(text(), 'Automative')]") public WebElement automativeDepartment; 
+	@FindBy(xpath = "//select[@id='search']") public List<WebElement> allDepartmentList;
+	@FindBy(xpath = "//input[@id='searchInput']") public WebElement searchBar; 
+	@FindBy(xpath = "//button[@id='searchBtn']") public WebElement searchIcon; 
+	@FindBy(xpath = "//img[contains(@alt, 'Kasa Outdoor Smart Plug')]") public WebElement kasa; 
+	@FindBy(xpath = "//select[@class= 'product__select']//option") public List<WebElement> quantityOption;
+	@FindBy(xpath = "//div[@id='cartBtn']") public WebElement cartBtn; 
+	@FindBy(xpath = "//span[contains(text(), 'Add to Cart')]") public WebElement addToCartBtn;
+	@FindBy(id = "cartQuantity") public WebElement cartQuantity;
+	@FindBy(id = "proceedBtn") public WebElement proceedToCheckoutBtn;
+	@FindBy(xpath = "//button[@id='addAddressBtn']") public WebElement addANewAddress;
+	@FindBy(xpath = "//button[@id='addPaymentBtn']") public WebElement addCreditCardLink;
+	@FindBy(xpath = "//button[text()= 'Place Your Order']") public WebElement placeYourOrderBtn;
+	@FindBy(xpath = "//p[text()= 'Order Placed, Thanks']") public WebElement orderPlacedMessage;
+	@FindBy(xpath = "//p[contains(text(), 'Apex Legends')]") public WebElement apex;
+	@FindBy(xpath = "//a[@id= 'orderLink']") public WebElement ordersOption;
+	
+	
+	
+	
+	
 	
 
 }

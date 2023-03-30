@@ -47,6 +47,19 @@ public class RetailAccountSteps extends CommonUtility{
 		
 	}
 	
+	/*
+	 * @Then("user profile information should be updated")
+	 * public void userProfileInforShouldUpdate() {
+	 * waitUntilPresense(factory.accountpage().accountUpdateAlert);
+	 * Assert.assertTrue(isElementDisplayed(factory.accountPage().accountUpdateAlert));
+	 * 
+	 * String actualMessage = factory.accountPage().accountUpdateAlert.getText();
+	 * String expectedMessage = "Personal Information Updated Successfully"
+	 * Assert.assertEquals(expectedMessage, actualMessage);
+	 * Logger.info("Name and Phone values updated")
+	 * }
+	 */
+	
 	@And("User enter below information")
 	public void userEnterBelowInformation(DataTable dataTable) {
 		List<Map<String, String>> data= dataTable.asMaps(String.class, String.class);
@@ -67,6 +80,7 @@ public class RetailAccountSteps extends CommonUtility{
 	@Then("The message should be displayed {string}")
 	public void aMessageShouldBeDisplayed(String msg) {
 		String message = getAttribute(factory.accountPage().passwordChangeAlert, msg);
+		
 		logger.info("A message should be displayed");
 		
 	}
@@ -237,8 +251,9 @@ public class RetailAccountSteps extends CommonUtility{
 	}
 	
 	@Then("Address details should be removed")
-	public void addressDetailsShouldBeRemoved () {
-		Assert.assertTrue(isElementDisplayed(factory.accountPage().addressBox));
+	public void addressDetailsShouldBeRemoved (){
+		getWait();
+		Assert.assertTrue(!isElementDisplayed(factory.accountPage().addressRemoveOption));
 		logger.info("Address details removed");
 		
 	}
